@@ -1,0 +1,246 @@
+[2024-02-11 03:28:21] [INFO] [RetroFE] Version 0.10.34 starting
+[2024-02-11 03:28:21] [INFO] [RetroFE] OS: Windows
+[2024-02-11 03:28:21] [INFO] [RetroFE] Absolute path: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings_saved.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings_saved.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings9.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings9.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings8.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings8.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings7.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings7.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings6.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings6.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings5.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings5.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings4.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings4.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings3.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings3.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings2.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings2.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings1.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings1.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\settings.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "fullscreen" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "horizontal" = "stretch"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "vertical" = "stretch"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "layout" = "Aeon Nox"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "hideMouse" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "showParenthesis" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "showSquareBrackets" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "videoEnable" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "videoLoop" = "0"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "unloadSDL" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "minimize_on_focus_loss" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "firstPlaylist" = "all"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "autoPlaylist" = "favorites"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "cyclePlaylist" = "all,favorites"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "lastplayedSize" = "0"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "lastplayedCollectionSize" = "0"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "firstCollection" = "Main"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "startCollectionEnter" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "enterOnCollection" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "backOnCollection" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "exitOnFirstPageBack" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collectionInputClear" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "subsSplit" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "prevLetterSubToCurrent" = "no"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "rememberMenu" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "backOnEmpty" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "attractModeTime" = "120"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "attractModeNextTime" = "30"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "attractModePlaylistTime" = "0"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "attractModeCollectionTime" = "0"
+[2024-02-11 03:28:21] [INFO] [RetroFE] Could not read directory "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\launchers.windows"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\launchers\fusion.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.fusion.executable" = "D:\Emulators\Fusion\Fusion.exe"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.fusion.arguments" = ""%ITEM_FILEPATH%""
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\launchers\Main.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.main.executable" = "%ITEM_FILEPATH%"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.main.arguments" = ""
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\launchers\mame.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.mame.executable" = "D:/Emulators/MAME/mamepp.exe"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.mame.arguments" = ""%ITEM_NAME%""
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\launchers\rocketlauncher.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.rocketlauncher.executable" = "../RocketLauncher/RocketLauncher.exe"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "launchers.rocketlauncher.arguments" = "-s "%ITEM_COLLECTION_NAME%" -r "%ITEM_FILEPATH%" -p RetroFE -f "%RETROFE_EXEC_PATH%""
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\info.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Could not open C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\info.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\settings.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Main.list.extensions" = "exe,bat,sh"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Main.list.menuSort" = "yes"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Main.launcher" = "Main"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\MAME\info.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_manufacturer" = "Manufacturer"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_type" = "Type"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_generation" = "Generation"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_year" = "Year"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_media" = "Media"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.lb_cpu" = "CPU"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.manufacturer" = "Many"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.type" = "Arcade Machines"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.generation" = "N/A"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.year" = "1971-2015"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.media" = "N/A"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.cpu" = "Many"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\MAME\settings.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.list.includeMissingItems" = "true"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.list.extensions" = "zip"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.list.menuSort" = "true"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.launcher" = "mame"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.MAME.metadata.type" = "MAME"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Sega Genesis\info.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_manufacturer" = "Manufacturer"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_type" = "Type"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_generation" = "Generation"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_year" = "Year"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_media" = "Media"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_cpu" = "CPU"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.manufacturer" = "Sega"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.type" = "Video Game Console"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.generation" = "Fourth Generation"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.year" = "1988 (Japan), 1989 (NA), 1990 (EU)"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.media" = "Cartridge"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.cpu" = "Motorola 68000, Zilog Z80"
+[2024-02-11 03:28:21] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Sega Genesis\settings.conf"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.includeMissingItems" = "true"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.extensions" = "zip"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.menuSort" = "true"
+[2024-02-11 03:28:21] [INFO] [Configuration] Dump: "collections.Sega Genesis.launcher" = "fusion"
+[2024-02-11 03:28:21] [INFO] [RetroFE] Imported configuration
+[2024-02-11 03:28:21] [INFO] [SDL] Initializing
+[2024-02-11 03:28:21] [INFO] [SDL] Number of displays found: 1
+[2024-02-11 03:28:21] [INFO] [SDL] Number of displays requested: 1
+[2024-02-11 03:28:21] [INFO] [Configuration] Setting rotation for screen 0 to 0 degrees.
+[2024-02-11 03:28:21] [INFO] [SDL] Creating 1920x1080 window (fullscreen: no) on display 0
+[2024-02-11 03:28:22] [INFO] [Configuration] Importing "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\controls.conf"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.up" = "Up,joyHat0Up"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.down" = "Down,joyHat0Down"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.left" = "Left,joyHat0Left"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.right" = "Right,joyHat0Right"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.pageUp" = "A"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.pageDown" = "B"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.letterUp" = "M"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.letterDown" = "N"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.collectionUp" = "K"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.collectionDown" = "L"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.favPlaylist" = "F"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.nextPlaylist" = "F2,joyHat0Right"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.prevPlaylist" = "F1,joyHat0Left"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.addPlaylist" = "I"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.removePlaylist" = "O"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.random" = "R"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.select" = "1,Return,joyButton0"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.back" = "Escape,joyButton1"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.quit" = "Q"
+[2024-02-11 03:28:22] [INFO] [Configuration] Dump: "controls.deadZone" = "20"
+[2024-02-11 03:28:22] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash 16x9.xml
+[2024-02-11 03:28:22] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash 16x9.xml
+[2024-02-11 03:28:22] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash.xml
+[2024-02-11 03:28:22] [INFO] [RetroFE] Initializing
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.playlistUp
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.playlistDown
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.playlistLeft
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.playlistRight
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.collectionUp
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.collectionDown
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.collectionLeft
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.collectionRight
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.pageDown
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.pageUp
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.letterDown
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.letterUp
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.favPlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.nextPlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat right
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.prevPlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat left
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.cyclePlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.nextCyclePlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.prevCyclePlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.addPlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.removePlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.togglePlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.random
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.menu
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.reboot
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.saveFirstPlaylist
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbFastForward1m
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbFastRewind1m
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbFastForward5p
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbFastRewind5p
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbPause
+[2024-02-11 03:28:22] [INFO] [Input] Missing property controls.jbRestart
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.up
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat up
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.left
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat left
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.down
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat down
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.right
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad hat right
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.select
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.select
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad button 0
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.back
+[2024-02-11 03:28:22] [INFO] [Input] Binding joypad button 1
+[2024-02-11 03:28:22] [INFO] [Input] Binding key controls.quit
+[2024-02-11 03:28:22] [INFO] [Database] Opened database "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\meta.db"
+[2024-02-11 03:28:22] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-11 03:28:22] [INFO] [Metadata] Importing hyperlist: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\meta\hyperlist\MAME.xml
+[2024-02-11 03:28:23] [INFO] [Metadata] Importing hyperlist: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\meta\hyperlist\Sega Genesis.xml
+[2024-02-11 03:28:23] [INFO] [MetadataDatabase] Could not read directory "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\meta\emuarc"
+[2024-02-11 03:28:29] [INFO] [Layout] Initialized
+[2024-02-11 03:28:29] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash 16x9 - 0.xml
+[2024-02-11 03:28:29] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash 16x9 - 0.xml
+[2024-02-11 03:28:29] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash - 0.xml
+[2024-02-11 03:28:29] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\splash - 0.xml
+[2024-02-11 03:28:42] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout 16x9.xml
+[2024-02-11 03:28:42] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout 16x9.xml
+[2024-02-11 03:28:42] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout.xml
+[2024-02-11 03:28:42] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Bold.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Bold.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/MC360.ttf
+[2024-02-11 03:28:42] [DEBUG] [Layout] loading font C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\\fonts/MC360.ttf
+[2024-02-11 03:28:42] [INFO] [Layout] Initialized
+[2024-02-11 03:28:42] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout 16x9 - 0.xml
+[2024-02-11 03:28:42] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout 16x9 - 0.xml
+[2024-02-11 03:28:42] [INFO] [Layout] Initializing C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout - 0.xml
+[2024-02-11 03:28:42] [INFO] [Layout] could not find layout file: C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\layouts\Aeon Nox\layout - 0.xml
+[2024-02-11 03:28:42] [INFO] [CollectionInfoBuilder] Checking for "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\include.txt"
+[2024-02-11 03:28:42] [INFO] [CollectionInfoBuilder] Scanning directory "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\roms"
+[2024-02-11 03:28:42] [INFO] [Menu] Found: "C:\Users\Mabedeep\Downloads\build_retrofe_windows\RetroFE-master\Artifacts\windows\RetroFE\collections\Main\menu.txt"
+[2024-02-11 03:28:48] [INFO] [RetroFE] Exiting
+[2024-02-11 03:28:48] [INFO] [SDL] DeInitializing
