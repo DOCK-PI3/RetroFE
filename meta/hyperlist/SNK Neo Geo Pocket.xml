@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo Pocket</listname>
+		<lastlistupdate>05/12/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Baseball Stars (Japan, Europe) (En,Ja)" index="true" image="b">
+		<description>Baseball Stars (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Baseball/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters R-1 (Japan, Europe) (En,Ja)" index="true" image="k">
+		<description>King of Fighters R-1 (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Melon-chan no Seichou Nikki (Japan)" index="true" image="m">
+		<description>Melon-chan no Seichou Nikki (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1998</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)" index="true" image="n">
+		<description>Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>DYNA</manufacturer>
+		<year>1999</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Geo Cup &apos;98 (Japan, Europe) (En,Ja)" index="" image="">
+		<description>Neo Geo Cup &apos;98 (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)" index="true" image="p">
+		<description>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Tennis/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Renketsu Puzzle Tsunagete Pon! (Japan)" index="true" image="r">
+		<description>Renketsu Puzzle Tsunagete Pon! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)" index="true" image="s">
+		<description>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shougi no Tatsujin (Japan)" index="" image="">
+		<description>Shougi no Tatsujin (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

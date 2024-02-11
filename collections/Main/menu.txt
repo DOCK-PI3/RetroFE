@@ -1,2 +1,9 @@
 MAME
+Final Burn Neo
 Sega Genesis
+Sega Megadrive
+Super Nintendo Entertainment System
+Nintendo Entertainment System
+Nintendo Game Boy
+Sony PlayStation
+Sony PSP
