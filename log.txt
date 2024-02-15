@@ -1,549 +1,497 @@
-[2024-02-11 21:30:35] [INFO] [RetroFE] Version 0.10.34 starting
-[2024-02-11 21:30:35] [INFO] [RetroFE] OS: Windows
-[2024-02-11 21:30:35] [INFO] [RetroFE] Absolute path: C:\RetroFE
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings_saved.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings_saved.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings9.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings9.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings8.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings8.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings7.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings7.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings6.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings6.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings5.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings5.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings4.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings4.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings3.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings3.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings2.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings2.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings1.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\settings1.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "fullscreen" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "horizontal" = "1920"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "vertical" = "1080"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "layout" = "Aeon Nox"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "hideMouse" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "showParenthesis" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "showSquareBrackets" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "videoEnable" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "videoLoop" = "0"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "unloadSDL" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "minimize_on_focus_loss" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "firstPlaylist" = "all"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "autoPlaylist" = "favorites"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "cyclePlaylist" = "all,favorites"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "lastplayedSize" = "0"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "lastplayedCollectionSize" = "0"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "firstCollection" = "Main"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "startCollectionEnter" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "enterOnCollection" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "backOnCollection" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "exitOnFirstPageBack" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collectionInputClear" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "subsSplit" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "prevLetterSubToCurrent" = "no"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "rememberMenu" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "backOnEmpty" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "attractModeTime" = "120"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "attractModeNextTime" = "30"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "attractModePlaylistTime" = "0"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "attractModeCollectionTime" = "0"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Amstrad GX4000.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.amstrad gx4000.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.amstrad gx4000.arguments" = "gx4000 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 2600.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 2600.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 2600.arguments" = "a2600 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 5200.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 5200.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 5200.arguments" = "a5200 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 7800.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 7800.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari 7800.arguments" = "a7800 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari Jaguar.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari jaguar.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari jaguar.arguments" = "jaguar -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari Lynx.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari lynx.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.atari lynx.arguments" = "lynx -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\ColecoVision.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.colecovision.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.colecovision.arguments" = "coleco -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\GCE Vectrex.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.gce vectrex.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.gce vectrex.arguments" = "vectrex -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Main.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.main.executable" = "%ITEM_FILEPATH%"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.main.arguments" = ""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\mame.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.mame.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.mame.arguments" = ""%ITEM_NAME%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Mattel Intellivision.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.mattel intellivision.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.mattel intellivision.arguments" = "intv -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\MSX Cart.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.msx cart.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.msx cart.arguments" = "nms8250 -ui_active -rompath "%ITEM_DIRECTORY%;roms" -cart1 "%ITEM_NAME%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\MSX Disk.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.msx disk.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.msx disk.arguments" = "nms8250 -ui_active -cart1 fmpac -cart2 sdsnatch -rompath "%ITEM_DIRECTORY%;roms" -flop1 "%ITEM_NAME%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC PC Engine.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec pc engine.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec pc engine.arguments" = "pce -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC SuperGrafx.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec supergrafx.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec supergrafx.arguments" = "sgx -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC TurboGrafx-16.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec turbografx-16.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nec turbografx-16.arguments" = "tg16 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo 64.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo 64.executable" = "emulators\Mupen64\mupen64plus-ui-console.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo 64.arguments" = "--resolution 1920x1080 --fullscreen --noosd "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Entertainment System.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo entertainment system.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo entertainment system.arguments" = "nes -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy Advance.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy advance.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy advance.arguments" = "gba -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy Color.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy color.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy color.arguments" = "gbcolor -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo game boy.arguments" = "gameboy -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo GameCube.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo gamecube.executable" = "emulators\Dolphin\Dolphin.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo gamecube.arguments" = "--batch --exec "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Virtual Boy.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo virtual boy.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.nintendo virtual boy.arguments" = "vboy -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PS1.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.ps1.executable" = "emulators\PCSX\pcsxr.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.ps1.arguments" = "-nogui -cdfile "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PS2.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.ps2.executable" = "emulators\PCSX2\pcsx2.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.ps2.arguments" = "--nogui "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PSP.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.psp.executable" = "emulators\PPSSPP\PPSSPPWindows64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.psp.arguments" = "--fullscreen --escape-exit "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\rocketlauncher.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.rocketlauncher.executable" = "../RocketLauncher/RocketLauncher.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.rocketlauncher.arguments" = "-s "%ITEM_COLLECTION_NAME%" -r "%ITEM_FILEPATH%" -p RetroFE -f "%RETROFE_EXEC_PATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sammy Atomiswave.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sammy atomiswave.executable" = "emulators\DEmul\demul.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sammy atomiswave.arguments" = "-run=awave -rom=%ITEM_NAME%"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega 32X.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega 32x.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega 32x.arguments" = "32x -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Game Gear.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega game gear.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega game gear.arguments" = "gamegear -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Genesis.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega genesis.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega genesis.arguments" = "genesis -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Mark III.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega mark iii.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega mark iii.arguments" = "smsj -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Master System.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega master system.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega master system.arguments" = "sms -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Naomi.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega naomi.executable" = "emulators\DEmul\demul.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega naomi.arguments" = "-run=naomi -rom=%ITEM_NAME%"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega SG-1000.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega sg-1000.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.sega sg-1000.arguments" = "sg1000 -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo AES.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo aes.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo aes.arguments" = "-rompath "%ITEM_DIRECTORY%;%ITEM_DIRECTORY%../bios/" aes "%ITEM_NAME%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo CD.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo cd.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo cd.arguments" = "neocdz -cdrom "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo Pocket Color.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket color.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket color.arguments" = "ngpc -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo Pocket.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket.arguments" = "ngp -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Super Nintendo Entertainment System.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.super nintendo entertainment system.executable" = "emulators\MAME\mame64.exe"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "launchers.super nintendo entertainment system.arguments" = "snes -cart "%ITEM_FILEPATH%""
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Final Burn Neo\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Final Burn Neo\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Final Burn Neo.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Main\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Could not open C:\RetroFE\collections\Main\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Main\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Main.list.extensions" = "exe,bat,sh"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Main.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Main.launcher" = "Main"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\MAME\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\MAME\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.list.includeMissingItems" = "true"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.list.menuSort" = "true"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.MAME.metadata.type" = "MAME"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Entertainment System\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Entertainment System\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Game Boy\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Game Boy\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Genesis\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.manufacturer" = "Sega"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.type" = "Video Game Console"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.generation" = "Fourth Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.year" = "1988 (Japan), 1989 (NA), 1990 (EU)"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.media" = "Cartridge"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.cpu" = "Motorola 68000, Zilog Z80"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Genesis\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.includeMissingItems" = "true"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.list.menuSort" = "true"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Genesis.launcher" = "fusion"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Megadrive\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Megadrive\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sega Megadrive.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PlayStation\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PlayStation\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PlayStation.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PSP\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PSP\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Sony PSP.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Super Nintendo Entertainment System\info.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_manufacturer" = "Manufacturer"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_type" = "Type"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_generation" = "Generation"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_year" = "Year"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_media" = "Media"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_cpu" = "CPU"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.manufacturer" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.type" = "Arcade Machines"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.generation" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.year" = "1971-2015"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.media" = "N/A"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.cpu" = "Many"
-[2024-02-11 21:30:35] [INFO] [Configuration] Importing "C:\RetroFE\collections\Super Nintendo Entertainment System\settings.conf"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.includeMissingItems" = "false"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.extensions" = "zip"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.menuSort" = "yes"
-[2024-02-11 21:30:35] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.launcher" = "mame"
-[2024-02-11 21:30:35] [INFO] [RetroFE] Imported configuration
-[2024-02-11 21:30:35] [INFO] [SDL] Initializing
-[2024-02-11 21:30:35] [INFO] [SDL] Number of displays found: 1
-[2024-02-11 21:30:35] [INFO] [SDL] Number of displays requested: 1
-[2024-02-11 21:30:35] [INFO] [Configuration] Setting rotation for screen 0 to 0 degrees.
-[2024-02-11 21:30:35] [INFO] [SDL] Creating 1920x1080 window (fullscreen: yes) on display 0
-[2024-02-11 21:30:36] [INFO] [Configuration] Importing "C:\RetroFE\controls.conf"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.up" = "Up,joyHat0Up"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.down" = "Down,joyHat0Down"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.left" = "Left,joyHat0Left"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.right" = "Right,joyHat0Right"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.pageUp" = "A"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.pageDown" = "B"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.letterUp" = "M"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.letterDown" = "N"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.collectionUp" = "K"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.collectionDown" = "L"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.favPlaylist" = "F"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.nextPlaylist" = "F2,joyHat0Right"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.prevPlaylist" = "F1,joyHat0Left"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.addPlaylist" = "I"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.removePlaylist" = "O"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.random" = "R"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.select" = "1,Return,joyButton0"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.back" = "Escape,joyButton1"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.quit" = "Q"
-[2024-02-11 21:30:36] [INFO] [Configuration] Dump: "controls.deadZone" = "20"
-[2024-02-11 21:30:36] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\splash 16x9.xml
-[2024-02-11 21:30:36] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\splash 16x9.xml
-[2024-02-11 21:30:36] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\splash.xml
-[2024-02-11 21:30:36] [INFO] [RetroFE] Initializing
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.playlistUp
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.playlistDown
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.playlistLeft
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.playlistRight
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.collectionUp
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.collectionDown
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.collectionLeft
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.collectionRight
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.pageDown
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.pageUp
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.letterDown
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.letterUp
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.favPlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.nextPlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat right
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.prevPlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat left
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.cyclePlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.nextCyclePlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.prevCyclePlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.addPlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.removePlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.togglePlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.random
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.menu
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.reboot
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.saveFirstPlaylist
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbFastForward1m
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbFastRewind1m
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbFastForward5p
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbFastRewind5p
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbPause
-[2024-02-11 21:30:36] [INFO] [Input] Missing property controls.jbRestart
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.up
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat up
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.left
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat left
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.down
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat down
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.right
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad hat right
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.select
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.select
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad button 0
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.back
-[2024-02-11 21:30:36] [INFO] [Input] Binding joypad button 1
-[2024-02-11 21:30:36] [INFO] [Input] Binding key controls.quit
-[2024-02-11 21:30:36] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
-[2024-02-11 21:30:36] [INFO] [Database] Opened database "C:\RetroFE\meta.db"
-[2024-02-11 21:30:44] [INFO] [Layout] Initialized
-[2024-02-11 21:30:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\splash 16x9 - 0.xml
-[2024-02-11 21:30:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\splash 16x9 - 0.xml
-[2024-02-11 21:30:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\splash - 0.xml
-[2024-02-11 21:30:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\splash - 0.xml
-[2024-02-11 21:30:57] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\layout 16x9.xml
-[2024-02-11 21:30:57] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\layout 16x9.xml
-[2024-02-11 21:30:57] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\layout.xml
-[2024-02-11 21:30:57] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Bold.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Bold.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/BebasNeue.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/Oswald-Regular.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/MC360.ttf
-[2024-02-11 21:30:57] [DEBUG] [Layout] loading font C:\RetroFE\layouts\Aeon Nox\\fonts/MC360.ttf
-[2024-02-11 21:30:57] [INFO] [Layout] Initialized
-[2024-02-11 21:30:57] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\layout 16x9 - 0.xml
-[2024-02-11 21:30:57] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\layout 16x9 - 0.xml
-[2024-02-11 21:30:57] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\layout - 0.xml
-[2024-02-11 21:30:57] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\layout - 0.xml
-[2024-02-11 21:30:57] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Main\include.txt"
-[2024-02-11 21:30:57] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Main\roms"
-[2024-02-11 21:30:57] [INFO] [Menu] Found: "C:\RetroFE\collections\Main\menu.txt"
-[2024-02-11 21:31:35] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:35] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout 16x9.xml
-[2024-02-11 21:31:35] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout 16x9.xml
-[2024-02-11 21:31:35] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout.xml
-[2024-02-11 21:31:35] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout.xml
-[2024-02-11 21:31:35] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:35] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:35] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout - 0.xml
-[2024-02-11 21:31:35] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sony PlayStation\layout\layout - 0.xml
-[2024-02-11 21:31:35] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Sony PlayStation\include.txt"
-[2024-02-11 21:31:35] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Sony PlayStation\roms"
-[2024-02-11 21:31:35] [INFO] [Menu] Found: "C:\RetroFE\collections\Sony PlayStation\menu.txt"
-[2024-02-11 21:31:37] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:37] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout 16x9.xml
-[2024-02-11 21:31:37] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout 16x9.xml
-[2024-02-11 21:31:37] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout.xml
-[2024-02-11 21:31:37] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout.xml
-[2024-02-11 21:31:37] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:37] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:37] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout - 0.xml
-[2024-02-11 21:31:37] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Game Boy\layout\layout - 0.xml
-[2024-02-11 21:31:37] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Nintendo Game Boy\include.txt"
-[2024-02-11 21:31:37] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Nintendo Game Boy\roms"
-[2024-02-11 21:31:37] [INFO] [Menu] Found: "C:\RetroFE\collections\Nintendo Game Boy\menu.txt"
-[2024-02-11 21:31:39] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:39] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout 16x9.xml
-[2024-02-11 21:31:39] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout 16x9.xml
-[2024-02-11 21:31:39] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout.xml
-[2024-02-11 21:31:39] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout.xml
-[2024-02-11 21:31:39] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:39] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:39] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout - 0.xml
-[2024-02-11 21:31:39] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Nintendo Entertainment System\layout\layout - 0.xml
-[2024-02-11 21:31:39] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Nintendo Entertainment System\include.txt"
-[2024-02-11 21:31:39] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Nintendo Entertainment System\roms"
-[2024-02-11 21:31:39] [INFO] [Menu] Found: "C:\RetroFE\collections\Nintendo Entertainment System\menu.txt"
-[2024-02-11 21:31:42] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:42] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout 16x9.xml
-[2024-02-11 21:31:42] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout 16x9.xml
-[2024-02-11 21:31:42] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout.xml
-[2024-02-11 21:31:42] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout.xml
-[2024-02-11 21:31:42] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:42] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:42] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout - 0.xml
-[2024-02-11 21:31:42] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Super Nintendo Entertainment System\layout\layout - 0.xml
-[2024-02-11 21:31:42] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Super Nintendo Entertainment System\include.txt"
-[2024-02-11 21:31:42] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Super Nintendo Entertainment System\roms"
-[2024-02-11 21:31:42] [INFO] [Menu] Found: "C:\RetroFE\collections\Super Nintendo Entertainment System\menu.txt"
-[2024-02-11 21:31:44] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout 16x9.xml
-[2024-02-11 21:31:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout 16x9.xml
-[2024-02-11 21:31:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout.xml
-[2024-02-11 21:31:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout.xml
-[2024-02-11 21:31:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout - 0.xml
-[2024-02-11 21:31:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Sega Megadrive\layout\layout - 0.xml
-[2024-02-11 21:31:44] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Sega Megadrive\include.txt"
-[2024-02-11 21:31:44] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Sega Megadrive\roms"
-[2024-02-11 21:31:44] [INFO] [Menu] Found: "C:\RetroFE\collections\Sega Megadrive\menu.txt"
-[2024-02-11 21:31:47] [INFO] [RetroFE] Updating lastplayed playlist
-[2024-02-11 21:31:47] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout 16x9.xml
-[2024-02-11 21:31:47] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout 16x9.xml
-[2024-02-11 21:31:47] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout.xml
-[2024-02-11 21:31:47] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout.xml
-[2024-02-11 21:31:47] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:47] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout 16x9 - 0.xml
-[2024-02-11 21:31:47] [INFO] [Layout] Initializing C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout - 0.xml
-[2024-02-11 21:31:47] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\Aeon Nox\collections\Final Burn Neo\layout\layout - 0.xml
-[2024-02-11 21:31:47] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Final Burn Neo\include.txt"
-[2024-02-11 21:31:47] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Final Burn Neo\roms"
-[2024-02-11 21:31:47] [INFO] [Menu] Found: "C:\RetroFE\collections\Final Burn Neo\menu.txt"
-[2024-02-11 21:32:10] [INFO] [SDL] DeInitializing
-[2024-02-11 21:32:10] [INFO] [RetroFE] Exiting
-[2024-02-11 21:32:10] [INFO] [SDL] DeInitializing
+[2024-02-15 14:07:55] [INFO] [RetroFE] Version 0.10.34 starting
+[2024-02-15 14:07:55] [INFO] [RetroFE] OS: Windows
+[2024-02-15 14:07:55] [INFO] [RetroFE] Absolute path: C:\RetroFE
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings_saved.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings_saved.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings9.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings9.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings8.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings8.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings7.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings7.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings6.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings6.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings5.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings5.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings4.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings4.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings3.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings3.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings2.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings2.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings1.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\settings1.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "fullscreen" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "horizontal" = "1920"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "vertical" = "1080"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "layout" = "RetroSpin"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "hideMouse" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "showParenthesis" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "showSquareBrackets" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "videoEnable" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "videoLoop" = "0"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "unloadSDL" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "minimize_on_focus_loss" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "firstPlaylist" = "all"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "autoPlaylist" = "favorites"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "cyclePlaylist" = "all,favorites"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "lastplayedSize" = "0"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "lastplayedCollectionSize" = "0"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "firstCollection" = "Main"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "startCollectionEnter" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "enterOnCollection" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "backOnCollection" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "exitOnFirstPageBack" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collectionInputClear" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "subsSplit" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "prevLetterSubToCurrent" = "no"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "rememberMenu" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "backOnEmpty" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "attractModeTime" = "120"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "attractModeNextTime" = "30"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "attractModePlaylistTime" = "0"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "attractModeCollectionTime" = "0"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Amstrad GX4000.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.amstrad gx4000.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.amstrad gx4000.arguments" = "gx4000 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 2600.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 2600.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 2600.arguments" = "a2600 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 5200.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 5200.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 5200.arguments" = "a5200 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari 7800.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 7800.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari 7800.arguments" = "a7800 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari Jaguar.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari jaguar.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari jaguar.arguments" = "jaguar -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Atari Lynx.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari lynx.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.atari lynx.arguments" = "lynx -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\ColecoVision.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.colecovision.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.colecovision.arguments" = "coleco -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\fbneo.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.fbneo.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.fbneo.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\fbneo_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\GCE Vectrex.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.gce vectrex.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.gce vectrex.arguments" = "vectrex -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Main.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.main.executable" = "%ITEM_FILEPATH%"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.main.arguments" = ""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\mame.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.mame.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.mame.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\mame_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Mattel Intellivision.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.mattel intellivision.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.mattel intellivision.arguments" = "intv -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\MSX Cart.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.msx cart.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.msx cart.arguments" = "nms8250 -ui_active -rompath "%ITEM_DIRECTORY%;roms" -cart1 "%ITEM_NAME%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\MSX Disk.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.msx disk.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.msx disk.arguments" = "nms8250 -ui_active -cart1 fmpac -cart2 sdsnatch -rompath "%ITEM_DIRECTORY%;roms" -flop1 "%ITEM_NAME%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC PC Engine.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec pc engine.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec pc engine.arguments" = "pce -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC SuperGrafx.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec supergrafx.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec supergrafx.arguments" = "sgx -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\NEC TurboGrafx-16.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec turbografx-16.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nec turbografx-16.arguments" = "tg16 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo 64.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo 64.executable" = "emulators\Mupen64\mupen64plus-ui-console.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo 64.arguments" = "--resolution 1920x1080 --fullscreen --noosd "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Entertainment System.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo entertainment system.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo entertainment system.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\nestopia_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy Advance.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy advance.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy advance.arguments" = "gba -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy Color.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy color.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy color.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\gearboy_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Game Boy.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo game boy.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\gambatte_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo GameCube.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo gamecube.executable" = "emulators\Dolphin\Dolphin.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo gamecube.arguments" = "--batch --exec "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Nintendo Virtual Boy.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo virtual boy.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.nintendo virtual boy.arguments" = "vboy -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PS1.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.ps1.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.ps1.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\swanstation_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PS2.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.ps2.executable" = "emulators\PCSX2\pcsx2.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.ps2.arguments" = "--nogui "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\PSP.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.psp.executable" = "C:\RetroFE\emulators\ppsspp_win\PPSSPPWindows64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.psp.arguments" = "--fullscreen --escape-exit "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\rocketlauncher.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.rocketlauncher.executable" = "../RocketLauncher/RocketLauncher.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.rocketlauncher.arguments" = "-s "%ITEM_COLLECTION_NAME%" -r "%ITEM_FILEPATH%" -p RetroFE -f "%RETROFE_EXEC_PATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sammy Atomiswave.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sammy atomiswave.executable" = "emulators\DEmul\demul.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sammy atomiswave.arguments" = "-run=awave -rom=%ITEM_NAME%"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega 32X.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega 32x.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega 32x.arguments" = "32x -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Game Gear.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega game gear.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega game gear.arguments" = "gamegear -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Genesis.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega genesis.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega genesis.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\genesis_plus_gx_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Mark III.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega mark iii.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega mark iii.arguments" = "smsj -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Master System.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega master system.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega master system.arguments" = "sms -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega Naomi.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega naomi.executable" = "emulators\DEmul\demul.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega naomi.arguments" = "-run=naomi -rom=%ITEM_NAME%"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Sega SG-1000.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega sg-1000.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.sega sg-1000.arguments" = "sg1000 -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo AES.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo aes.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo aes.arguments" = "-rompath "%ITEM_DIRECTORY%;%ITEM_DIRECTORY%../bios/" aes "%ITEM_NAME%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo CD.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo cd.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo cd.arguments" = "neocdz -cdrom "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo Pocket Color.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket color.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket color.arguments" = "ngpc -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\SNK Neo Geo Pocket.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket.executable" = "emulators\MAME\mame64.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.snk neo geo pocket.arguments" = "ngp -cart "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\launchers.windows\Super Nintendo Entertainment System.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.super nintendo entertainment system.executable" = "C:\RetroFE\emulators\RetroArch-Win64\retroarch.exe"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "launchers.super nintendo entertainment system.arguments" = "-L C:\RetroFE\emulators\RetroArch-Win64\cores\snes9x_libretro.dll "%ITEM_FILEPATH%""
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Final Burn Neo\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Final Burn Neo\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.extensions" = "zip,7z"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.launcher" = "fbneo"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Final Burn Neo.metadata.type" = "MAME"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Main\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Could not open C:\RetroFE\collections\Main\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Main\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Main.list.extensions" = "exe,bat,sh"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Main.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Main.launcher" = "Main"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\MAME\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\MAME\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.list.includeMissingItems" = "true"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.list.menuSort" = "true"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.launcher" = "mame"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.MAME.metadata.type" = "MAME"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Entertainment System\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Entertainment System\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.launcher" = "Nintendo Entertainment System"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Entertainment System.metadata.type" = "Nintendo Entertainment System"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Game Boy\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Nintendo Game Boy\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Nintendo Game Boy.launcher" = "mame"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Megadrive\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sega Megadrive\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.launcher" = "Sega Genesis"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sega Megadrive.metadata.type" = "Sega Genesis"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PlayStation\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Sony PlayStation\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Sony PlayStation.launcher" = "mame"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Super Nintendo Entertainment System\info.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_manufacturer" = "Manufacturer"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_type" = "Type"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_generation" = "Generation"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_year" = "Year"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_media" = "Media"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.lb_cpu" = "CPU"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.manufacturer" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.type" = "Arcade Machines"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.generation" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.year" = "1971-2015"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.media" = "N/A"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.cpu" = "Many"
+[2024-02-15 14:07:55] [INFO] [Configuration] Importing "C:\RetroFE\collections\Super Nintendo Entertainment System\settings.conf"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.includeMissingItems" = "false"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.extensions" = "zip"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.list.menuSort" = "yes"
+[2024-02-15 14:07:55] [INFO] [Configuration] Dump: "collections.Super Nintendo Entertainment System.launcher" = "mame"
+[2024-02-15 14:07:55] [INFO] [RetroFE] Imported configuration
+[2024-02-15 14:07:55] [INFO] [SDL] Initializing
+[2024-02-15 14:07:56] [INFO] [SDL] Number of displays found: 1
+[2024-02-15 14:07:56] [INFO] [SDL] Number of displays requested: 1
+[2024-02-15 14:07:56] [INFO] [Configuration] Setting rotation for screen 0 to 0 degrees.
+[2024-02-15 14:07:56] [INFO] [SDL] Creating 1920x1080 window (fullscreen: yes) on display 0
+[2024-02-15 14:07:56] [INFO] [Configuration] Importing "C:\RetroFE\controls.conf"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.up" = "Up,joyHat0Up"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.down" = "Down,joyHat0Down"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.left" = "Left,joyHat0Left"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.right" = "Right,joyHat0Right"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.pageUp" = "A"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.pageDown" = "B"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.letterUp" = "M"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.letterDown" = "N"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.collectionUp" = "K"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.collectionDown" = "L"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.favPlaylist" = "F"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.nextPlaylist" = "F2,joyHat0Right"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.prevPlaylist" = "F1,joyHat0Left"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.addPlaylist" = "I"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.removePlaylist" = "O"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.random" = "R"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.select" = "1,Return,joyButton0"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.back" = "Escape,joyButton1"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.quit" = "Q"
+[2024-02-15 14:07:56] [INFO] [Configuration] Dump: "controls.deadZone" = "20"
+[2024-02-15 14:07:56] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\splash 16x9.xml
+[2024-02-15 14:07:56] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\splash 16x9.xml
+[2024-02-15 14:07:56] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\splash.xml
+[2024-02-15 14:07:56] [INFO] [RetroFE] Initializing
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.playlistUp
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.playlistDown
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.playlistLeft
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.playlistRight
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.collectionUp
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.collectionDown
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.collectionLeft
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.collectionRight
+[2024-02-15 14:07:56] [INFO] [Layout] Layout resolution 1600x1200 (scale 1.2x0.9)
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.pageDown
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.pageUp
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.letterDown
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.letterUp
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.favPlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.nextPlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat right
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.prevPlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat left
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.cyclePlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.nextCyclePlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.prevCyclePlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.addPlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.removePlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.togglePlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.random
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.menu
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.reboot
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.saveFirstPlaylist
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbFastForward1m
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbFastRewind1m
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbFastForward5p
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbFastRewind5p
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbPause
+[2024-02-15 14:07:56] [INFO] [Input] Missing property controls.jbRestart
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.up
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat up
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.left
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat left
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.down
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat down
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.right
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad hat right
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.select
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.select
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad button 0
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.back
+[2024-02-15 14:07:56] [INFO] [Input] Binding joypad button 1
+[2024-02-15 14:07:56] [INFO] [Input] Binding key controls.quit
+[2024-02-15 14:07:56] [INFO] [Database] Opened database "C:\RetroFE\meta.db"
+[2024-02-15 14:08:04] [INFO] [Layout] Initialized
+[2024-02-15 14:08:04] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\splash 16x9 - 0.xml
+[2024-02-15 14:08:04] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\splash 16x9 - 0.xml
+[2024-02-15 14:08:04] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\splash - 0.xml
+[2024-02-15 14:08:04] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\splash - 0.xml
+[2024-02-15 14:08:17] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\layout 16x9.xml
+[2024-02-15 14:08:17] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\layout 16x9.xml
+[2024-02-15 14:08:17] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\layout.xml
+[2024-02-15 14:08:17] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-15 14:08:17] [INFO] [Layout] Initialized
+[2024-02-15 14:08:17] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\layout 16x9 - 0.xml
+[2024-02-15 14:08:17] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\layout 16x9 - 0.xml
+[2024-02-15 14:08:17] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\layout - 0.xml
+[2024-02-15 14:08:17] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\layout - 0.xml
+[2024-02-15 14:08:17] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Main\include.txt"
+[2024-02-15 14:08:17] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Main\roms"
+[2024-02-15 14:08:17] [INFO] [Menu] Found: "C:\RetroFE\collections\Main\menu.txt"
+[2024-02-15 14:08:44] [INFO] [RetroFE] Updating lastplayed playlist
+[2024-02-15 14:08:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout 16x9.xml
+[2024-02-15 14:08:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout 16x9.xml
+[2024-02-15 14:08:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout.xml
+[2024-02-15 14:08:44] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:08:44] [INFO] [Layout] Initialized
+[2024-02-15 14:08:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout 16x9 - 0.xml
+[2024-02-15 14:08:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout 16x9 - 0.xml
+[2024-02-15 14:08:44] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout - 0.xml
+[2024-02-15 14:08:44] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Sega Megadrive\layout\layout - 0.xml
+[2024-02-15 14:08:44] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Sega Megadrive\include.txt"
+[2024-02-15 14:08:44] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Sega Megadrive\roms"
+[2024-02-15 14:08:44] [INFO] [Menu] Found: "C:\RetroFE\collections\Sega Megadrive\menu.txt"
+[2024-02-15 14:09:47] [DEBUG] [Page] Allocating graphics memory
+[2024-02-15 14:09:47] [DEBUG] [Page] Allocate graphics memory complete
+[2024-02-15 14:09:52] [INFO] [RetroFE] Updating lastplayed playlist
+[2024-02-15 14:09:53] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout 16x9.xml
+[2024-02-15 14:09:53] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout 16x9.xml
+[2024-02-15 14:09:53] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout.xml
+[2024-02-15 14:09:53] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:09:53] [INFO] [Layout] Initialized
+[2024-02-15 14:09:53] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout 16x9 - 0.xml
+[2024-02-15 14:09:53] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout 16x9 - 0.xml
+[2024-02-15 14:09:53] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout - 0.xml
+[2024-02-15 14:09:53] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Super Nintendo Entertainment System\layout\layout - 0.xml
+[2024-02-15 14:09:53] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Super Nintendo Entertainment System\include.txt"
+[2024-02-15 14:09:53] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Super Nintendo Entertainment System\roms"
+[2024-02-15 14:09:53] [INFO] [Menu] Found: "C:\RetroFE\collections\Super Nintendo Entertainment System\menu.txt"
+[2024-02-15 14:10:00] [DEBUG] [Page] Allocating graphics memory
+[2024-02-15 14:10:01] [DEBUG] [Page] Allocate graphics memory complete
+[2024-02-15 14:10:03] [INFO] [RetroFE] Updating lastplayed playlist
+[2024-02-15 14:10:03] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout 16x9.xml
+[2024-02-15 14:10:03] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout 16x9.xml
+[2024-02-15 14:10:03] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout.xml
+[2024-02-15 14:10:03] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:10:04] [INFO] [Layout] Initialized
+[2024-02-15 14:10:04] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout 16x9 - 0.xml
+[2024-02-15 14:10:04] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout 16x9 - 0.xml
+[2024-02-15 14:10:04] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout - 0.xml
+[2024-02-15 14:10:04] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Entertainment System\layout\layout - 0.xml
+[2024-02-15 14:10:04] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Nintendo Entertainment System\include.txt"
+[2024-02-15 14:10:04] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Nintendo Entertainment System\roms"
+[2024-02-15 14:10:04] [INFO] [Menu] Found: "C:\RetroFE\collections\Nintendo Entertainment System\menu.txt"
+[2024-02-15 14:18:05] [DEBUG] [Page] Allocating graphics memory
+[2024-02-15 14:18:06] [DEBUG] [Page] Allocate graphics memory complete
+[2024-02-15 14:18:10] [INFO] [RetroFE] Updating lastplayed playlist
+[2024-02-15 14:18:10] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout 16x9.xml
+[2024-02-15 14:18:10] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout 16x9.xml
+[2024-02-15 14:18:10] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout.xml
+[2024-02-15 14:18:10] [INFO] [Layout] Layout resolution 1920x1080 (scale 1x1)
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [DEBUG] [Layout] loading font C:\RetroFE\layouts\RetroSpin\\fonts/BebasNeue.ttf
+[2024-02-15 14:18:10] [INFO] [Layout] Initialized
+[2024-02-15 14:18:10] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout 16x9 - 0.xml
+[2024-02-15 14:18:10] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout 16x9 - 0.xml
+[2024-02-15 14:18:10] [INFO] [Layout] Initializing C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout - 0.xml
+[2024-02-15 14:18:10] [INFO] [Layout] could not find layout file: C:\RetroFE\layouts\RetroSpin\collections\Nintendo Game Boy\layout\layout - 0.xml
+[2024-02-15 14:18:10] [INFO] [CollectionInfoBuilder] Checking for "C:\RetroFE\collections\Nintendo Game Boy\include.txt"
+[2024-02-15 14:18:10] [INFO] [CollectionInfoBuilder] Scanning directory "C:\RetroFE\collections\Nintendo Game Boy\roms"
+[2024-02-15 14:18:10] [INFO] [Menu] Found: "C:\RetroFE\collections\Nintendo Game Boy\menu.txt"
+[2024-02-15 14:18:44] [DEBUG] [Page] Allocating graphics memory
+[2024-02-15 14:18:44] [DEBUG] [Page] Allocate graphics memory complete
+[2024-02-15 14:18:49] [INFO] [SDL] DeInitializing
+[2024-02-15 14:18:49] [INFO] [RetroFE] Exiting
+[2024-02-15 14:18:49] [INFO] [SDL] DeInitializing

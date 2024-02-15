@@ -1,0 +1,520 @@
+<!-- RetroSpin by JonahUK -->
+
+<layout width="1920" height="1080" font="fonts/micross.ttf" loadFontSize="36" fontColor="FFD700">
+
+	<!-- Sounds(Standard/Default RetroFE) -->
+	<sound type="load" src="sounds/load.wav" />
+	<sound type="unload" src="sounds/unload.wav" />
+	<sound type="highlight" src="sounds/highlight.wav" />
+	<sound type="select" src="sounds/select.wav" />
+
+	<!-- Main Pointer Image  -->
+	<reloadableImage type="MainPointer" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="11"/>
+	<!-- Main Logo Image  -->
+	<reloadableImage type="MainLogo" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="10"/>
+	<!-- Main Character 4 Image  -->
+	<reloadableImage type="MainCharacter4" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="9"/>
+	<!-- Main Character 3 Image  -->
+	<reloadableImage type="MainCharacter3" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="8"/>
+	<!-- Main Controller 2 Image  -->
+	<reloadableImage type="MainController2" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="7"/>	
+	<!-- Main Border Image  -->
+	<reloadableImage type="MainBorder" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="6"/>	
+	<!-- Main Character 2 Image  -->
+	<reloadableImage type="MainCharacter2" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="5"/>
+	<!-- Main Character 1 Image  -->
+	<reloadableImage type="MainCharacter1" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="4"/>
+	<!-- Main Controller 1 Image  -->
+	<reloadableImage type="MainController1" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="3"/>
+	<!-- Main Console Image  -->
+	<reloadableImage type="MainConsole" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="2"/>	
+	<!-- Main Background Image  -->
+	<reloadableImage type="MainBackground" mode="layout" x="0" y="0" width="stretch" height="stretch" layer="0"/>
+
+	<!-- Main Video -->
+	<reloadableVideo imageType="screenshot" alpha="1" x="584" y="223" height="602" width="778" layer="6"/>
+	<!-- Menu Wheel - Menu Index 0-->
+   <menu type="custom" imageType="logo" orientation="vertical" width="400" height="175" scrollTime=".24" scrollAcceleration=".04">
+      <itemDefaults spacing="2" y="center" x="950" yOrigin="center" xOrigin="center" fontSize="35" width="260" layer="13"/>
+      <item xOffset="830" angle="39" yOffset="-684" alpha="0" >
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="830" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="32" yOffset="-576" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="27" yOffset="-466" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="20" yOffset="-354" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="14" yOffset="-238" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="8" yOffset="-120" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="600" yOffset="0" layer="12" fontSize="50" width="400" alpha="1" selected="true">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1200" to="600" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="600" to="1200" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="-8" yOffset="120" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="-14" yOffset="238" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="-20" yOffset="354" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="-27" yOffset="466" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="-32" yOffset="576" alpha="0.75">
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="830" angle="-39" yOffset="684" alpha="0" >
+            <onMenuEnter menuIndex="0">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="792" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+   </menu>
+   
+   	<!-- Menu Wheel - Menu Index 1-->
+   <menu type="custom" imageType="logo" orientation="vertical" width="400" height="175" scrollTime=".24" scrollAcceleration=".04">
+      <itemDefaults spacing="2" y="center" x="950" yOrigin="center" xOrigin="center" fontSize="35" width="260" layer="13"/>
+      <item xOffset="830" angle="39" yOffset="-684" alpha="0" >
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="830" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="32" yOffset="-576" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="27" yOffset="-466" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="20" yOffset="-354" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="14" yOffset="-238" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="8" yOffset="-120" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="600" yOffset="0" layer="12" fontSize="50" width="400" alpha="1" selected="true">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1200" to="600" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="600" to="1200" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="-8" yOffset="120" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="-14" yOffset="238" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="-20" yOffset="354" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="-27" yOffset="466" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="-32" yOffset="576" alpha="0.75">
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="830" angle="-39" yOffset="684" alpha="0" >
+            <onMenuEnter menuIndex="1">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="792" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+   </menu>
+   
+   	<!-- Menu Wheel - Menu Index 2-->
+   <menu type="custom" imageType="logo" orientation="vertical" width="400" height="175" scrollTime=".24" scrollAcceleration=".04">
+      <itemDefaults spacing="2" y="center" x="950" yOrigin="center" xOrigin="center" fontSize="35" width="260" layer="13"/>
+      <item xOffset="830" angle="39" yOffset="-684" alpha="0" >
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="830" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="32" yOffset="-576" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="27" yOffset="-466" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="20" yOffset="-354" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="14" yOffset="-238" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="8" yOffset="-120" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="600" yOffset="0" layer="12" fontSize="50" width="400" alpha="1" selected="true">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1200" to="600" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="600" to="1200" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="610" angle="-8" yOffset="120" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1210" to="610" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="610" to="1210" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="630" angle="-14" yOffset="238" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1230" to="630" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="630" to="1230" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="665" angle="-20" yOffset="354" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1265" to="665" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="665" to="1265" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="710" angle="-27" yOffset="466" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1310" to="710" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="710" to="1310" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="770" angle="-32" yOffset="576" alpha="0.75">
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1370" to="770" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="770" to="1370" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+      <item xOffset="830" angle="-39" yOffset="684" alpha="0" >
+            <onMenuEnter menuIndex="2">
+                <set duration=".25">
+                    <animate type="xOffset" from="1430" to="830" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit>
+                <set duration=".25">
+                    <animate type="xOffset" from="792" to="1430" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+      </item>
+   </menu>
+
+   
+</layout>
